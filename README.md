@@ -56,7 +56,9 @@ A complete desktop application for managing driver license processes with user r
 
 ---
 
-## 🔐 Role-Based Access
+##User Roles & Permissions implemented using efficient byte flags with bitwise & operations for screen-level access control (Admin, Editor, Viewer)
+
+
 
 | Role   | Permissions                                                              |
 | ------ | ------------------------------------------------------------------------ |
