@@ -26,6 +26,7 @@ A complete desktop application for managing driver license processes with user r
 * **Extensive Use of User Controls** for modular and reusable UI components
 * **Quick Navigation** with links between related screens
 * **Lambda Expressions** for cleaner and more efficient code
+* **Comments** To make it clear and easy for any developer to understand my logic 
 
 ---
 
